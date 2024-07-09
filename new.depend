@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\sandun\documents\dumps\new\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720416126 source:c:\users\sandun\documents\dumps\new\new.c
+	<stdio.h>
+	<stdlib.h>
+
+1720416652 source:c:\users\sandun\documents\dumps\new\printf.c
+	<stdio.h>
+
+1584205420 source:c:\users\sandun\pictures\new\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1720532597 source:c:\users\sandun\pictures\new\case senstive.c
+	<stdio.h>
+
+1720533907 source:c:\users\sandun\pictures\new\reallife-example.c
+	<stdio.h>
+
