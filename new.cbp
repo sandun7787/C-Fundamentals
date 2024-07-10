@@ -31,7 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="case senstive.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reallife-example.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
