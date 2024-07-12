@@ -34,10 +34,19 @@
 		<Unit filename="case senstive.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="cha.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="reallife-example.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sizeOd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="whool.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
