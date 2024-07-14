@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Break.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="booleans.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -40,7 +43,13 @@
 		<Unit filename="cha.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="cloop.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="const.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="doWhileloop.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="expilicity.c">
@@ -52,10 +61,16 @@
 		<Unit filename="include.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="loop.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="realWorld.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="realWorld2.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="realWorldexample.c">
@@ -68,6 +83,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="typeConversions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="whileloopRealworld.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="whool.c">
